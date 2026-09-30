@@ -1,0 +1,4 @@
+import "github.com/S42yt/discord.bn"
+
+assert(greet("Burn") == "Hello, Burn!")
+print("all tests passed")

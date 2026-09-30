@@ -1,0 +1,12 @@
+/**
+ * Returns a friendly greeting.
+ *
+ * @param name who to greet
+ * @return the greeting
+ * @since 0.1.0
+ * @example
+ *     greet("Burn")  // "Hello, Burn!"
+ */
+pub fun greet(name: string): string {
+    return "Hello, ${name}!"
+}

@@ -1,0 +1,11 @@
+[package]
+name = "github.com/S42yt/discord.bn"
+version = "0.1.0"
+kind = "lib"
+target = "bvm"
+main = "src/lib.bn"
+
+[dependencies]
+
+[scripts]
+test = "burni tests/main.bn"
